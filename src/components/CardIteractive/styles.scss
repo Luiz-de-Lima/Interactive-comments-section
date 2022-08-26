@@ -2,12 +2,12 @@
 
 .container {
   width: 600px;
-  height: 400;
   background-color: var(--White);
   padding: 2rem;
   border-radius: 8px;
   display: flex;
   align-items: center;
+  margin: 2rem;
 }
 .container-liked {
   display: flex;

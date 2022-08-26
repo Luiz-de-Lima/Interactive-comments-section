@@ -1,0 +1,25 @@
+.container-coment {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container--content {
+  display: flex;
+  justify-content: center;
+  align-items: baseline;
+}
+textarea {
+  background-color: var(--White);
+  padding: 0.6rem;
+  border-radius: 8px;
+  margin: 1rem 1rem;
+  width: 500px;
+}
+button {
+  border: none;
+  border-radius: 8px;
+  background-color: var(--Moderate-blue);
+  color: var(--White);
+  font-weight: 600;
+  padding: 1rem;
+}
